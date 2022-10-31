@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Victoria Ablogeev
 #### I am a Full-Stack developer
-![I am a Full-Stack developer]([https://i.postimg.cc/h4NL9vPX/Victoria-Ablogeev.png](https://i.postimg.cc/tRmjD0LZ/Victoria-Ablogeev.png))
+![I am a Full-Stack developer](https://i.postimg.cc/tRmjD0LZ/Victoria-Ablogeev.png)
 
 I am a recent C.S graduate with a passion for creating websites. I am fascinated by new technologies and sharing my knowledge with others.
 
