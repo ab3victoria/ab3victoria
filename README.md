@@ -2,6 +2,10 @@
 
 ab3victoria/ab3victoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ab3victoria&layout=compact)](https://github.com/ab3victoria/github-readme-stats)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ab3victoria)](https://github.com/ab3victoria/github-readme-stats)
 
 
