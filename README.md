@@ -1,4 +1,4 @@
-![I am a Full-Stack developer](https://i.postimg.cc/fWXcVp8g/2.png)
+![I am a Full-Stack developer](https://i.postimg.cc/fLswB3hd/2.png)
 
 ### Hi there 👋, my name is Victoria Ablogeev
 #### I am a Full-Stack developer
