@@ -4,13 +4,19 @@
 #### I am a Full-Stack developer
 
 
-I am a recent C.S graduate with a passion for creating websites. I am fascinated by new technologies and sharing my knowledge with others.
+## About Me 🙋‍
+- 🎓 I am a recent Computer Science graduate.
+- 👯 Currently I volunteer as a Web instructor teaching HTML, CSS and Javascript
+- 👨‍💻 Fascinated by new technologies and sharing my knowledge with others and collborate.
+- 🔭 I’m currently working on a Movie App.
+- ⚡ I love sharing and expanding my technical knowldege.
+
+- 📫 How to reach me - ab3victoria@gmail.com
+
 
 Skills: REACT / JS / HTML / CSS / NodeJS / MobgoDB
 
-- 🔭 I’m currently working on a Movie App.
-- ⚡ I love sharing and expanding my technical knowldege so currently I volunteer as a Web instructor teaching HTML, CSS and Javascript
-- 📫 How to reach me - ab3victoria@gmail.com
+
 
 
 
