@@ -14,7 +14,7 @@
 - 📫 How to reach me - ab3victoria@gmail.com
 
 
-Skills: REACT / JS / HTML / CSS / NodeJS / MobgoDB
+Skills: React.js / Javascript / HTML / CSS / Node.js / MongoDB
 
 
 
