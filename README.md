@@ -8,7 +8,7 @@
 - 🎓 I am a recent Computer Science graduate.
 - 👯 Currently I volunteer as a Web instructor teaching HTML, CSS and Javascript
 - 👨‍💻 Fascinated by new technologies and sharing my knowledge with others and collborate.
-- 🔭 I’m currently working on a Movie App.
+- 🔭 I’m currently working on a [Movie App](https://github.com/ab3victoria/netflix-react-app).
 - ⚡ I love sharing and expanding my technical knowldege.
 
 - 📫 How to reach me - ab3victoria@gmail.com
